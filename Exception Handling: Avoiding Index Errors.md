@@ -18,7 +18,7 @@ try:
 except:
     print("You're out of list range")
 
-``
+```
 ## Output
 <img width="614" height="294" alt="image" src="https://github.com/user-attachments/assets/616b9b76-8bb5-468d-aa4b-c358a4ad2c18" />
 
